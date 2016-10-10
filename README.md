@@ -1,2 +1,2 @@
 # get-away
-Work in Progress
+Recommendations based on Friends interests/likes
